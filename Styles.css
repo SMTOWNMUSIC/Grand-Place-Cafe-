@@ -1,0 +1,47 @@
+html {
+  background: Black;                                
+  margin: 0 auto;
+  max-width: 90%;
+  position: relative;                              
+}
+
+body
+{ 
+  background-color: DeepSkyBlue;
+  margin: 20px;
+  padding: 15px;
+
+}
+
+h2
+{
+  background-color: RoyalBlue;
+  color: Black;
+  height: 5vh;
+  width: 100%;
+  text-align: center;
+}
+
+nav
+{
+  background-color: white;
+  color: White;
+  text-align: center;
+}
+
+section
+{
+  background-color: Blue;
+  float: left;
+  height: 80vh;                                  
+  width: 60%;
+}
+
+
+footer
+{
+  background-color: white;
+  color: Black;
+  height: 5vh;
+  width: 100%;
+}
